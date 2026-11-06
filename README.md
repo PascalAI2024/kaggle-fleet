@@ -4,7 +4,7 @@
 
 A public record of my Kaggle work. Each competition that gets published here has a write-up, the solution code that runs, and the score with the date it was read off the public leaderboard. The profile the numbers come from is [kaggle.com/pascalledesma](https://www.kaggle.com/pascalledesma).
 
-This repository is fresh. Nothing is published yet, and the capture above is the whole of the current evidence.
+This repository is fresh. Nothing is published yet. The capture above was taken on 2026-11-05 and the rank in it moves; the profile page is the live source.
 
 ## Who this is for
 
@@ -12,7 +12,7 @@ Anyone who wants to check the work before talking to me. A hiring loop, a collab
 
 ## Status
 
-Fresh repository, started November 2026. Every entry below is still being cleaned up. Write-ups land as each competition is cleaned, one at a time, rather than all at once.
+Fresh repository, started October 2026. Every entry below is still being cleaned up. Write-ups land as each competition is cleaned, one at a time, rather than all at once.
 
 ## Competitions entered (as of October 2026)
 
